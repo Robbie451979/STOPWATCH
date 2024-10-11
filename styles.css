@@ -1,0 +1,89 @@
+* {
+    outline: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+    body {
+
+        background-color:white;
+    }
+
+    .stopwatch-gif {
+
+        width: 280px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin: 20px auto;
+        
+        
+    }
+
+    .div-two {
+
+        width: 69px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin: 20px auto;
+
+    }
+
+    .div-three {
+
+        width: 161px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin: 20px auto;
+
+    }
+
+    h1 {
+
+        line-height: 50px;
+        margin-left: 55px;
+        font-size:100px;
+        
+    }
+
+    .button-one {
+
+        background: #A0A0A0;
+        width: 110%;
+        border: none;
+        height: 48px;
+        color: #ffffff;
+        font-weight: 700;
+        font-size: 18px;
+        cursor: pointer;
+        border: #ffffff;
+        border-color:black;
+
+    }
+
+        .button-two {
+
+            margin-top: 50px;
+            background: #A0A0A0;
+            width: 110%;
+            border: none;
+            height: 48px;
+            color: #ffffff;
+            font-weight: 700;
+            font-size: 18px;
+            cursor: pointer;
+            border: #ffffff;
+        }
+
+        button:active {
+            opacity: 0.6;
+        }
+
+        button:hover {
+            opacity: 0.8;
+        }
+
+    }
